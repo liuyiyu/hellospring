@@ -34,7 +34,6 @@ public class HelloController {
 		return "S3Data";
 	}
 
-
 	public void genOutput()  {
 		File myfile = new File("C:\\myfile.txt");
 		try {
